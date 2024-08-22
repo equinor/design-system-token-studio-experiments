@@ -1,0 +1,72 @@
+{
+  "git.autofetch": true,
+  "git.rebaseWhenSync": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": false,
+  "eslint.probe": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "markdown"
+  ],
+  "editor.codeActionsOnSave": ["source.formatDocument", "source.fixAll.eslint"],
+  "errorLens.gutterIconsEnabled": true,
+  "cSpell.language": "nb,en",
+  "emmet.variables": {
+    "lang": "no"
+  },
+  "emmet.extensionsPath": ["./.emmet"],
+  "cSpell.words": [
+    "Autodocs",
+    "branchen",
+    "Codespace",
+    "Codespaces",
+    "colorjs",
+    "dritlei",
+    "Equinor",
+    "eventen",
+    "forhåndsvise",
+    "frontpage",
+    "Javascriptet",
+    "Kodevisning",
+    "noen",
+    "OKLCH",
+    "repoet",
+    "skjermlesere",
+    "stilarket",
+    "stylesheet",
+    "tailwindcss",
+    "temaet",
+    "tnum",
+    "topbar",
+    "Tudldu",
+    "webp",
+    "webside",
+    "websiden",
+    "workshoppen"
+  ],
+  "explorer.sortOrder": "type",
+  "workbench.colorCustomizations": {
+    "htmlEndTagLabels.labelColor": "#cdcdcd"
+  },
+  "htmlEndTagLabels.labelPrefix": "//",
+  "editor.wordWrap": "on",
+  "rewrap.autoWrap.enabled": true,
+  "json.schemas": [
+    {
+      "fileMatch": [".prettier.yaml"],
+      "url": "http://json.schemastore.org/prettierrc"
+    },
+    {
+      "fileMatch": [".eslintrc.yaml"],
+      "url": "http://json.schemastore.org/eslintrc"
+    }
+  ],
+  "workbench.tree.indent": 16,
+  "workbench.tree.renderIndentGuides": "always",
+  "editor.tabSize": 2,
+  "editor.linkedEditing": true,
+  "css.lint.unknownAtRules": "ignore"
+}
