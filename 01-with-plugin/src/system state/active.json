@@ -2,7 +2,7 @@
   "surface": {
     "$type": "color",
     "interactive": {
-      "$value": "{surface.interactive.disabled}"
+      "$value": "{surface.interactive.active}"
     }
   }
 }

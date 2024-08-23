@@ -1,1 +1,6 @@
-{}
+{
+  "surface": {
+    "$type": "color",
+    "$value": "{surface.interactive}"
+  }
+}

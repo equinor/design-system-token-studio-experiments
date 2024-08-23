@@ -5,7 +5,7 @@
     "user state/initial",
     "user state/hover",
     "system state/resting",
-    "system state/hover",
+    "system state/active",
     "system state/disabled",
     "public/value"
   ]

@@ -1,1 +1,8 @@
-{}
+{
+  "surface": {
+    "$type": "color",
+    "interactive": {
+      "$value": "{surface.interactive.resting}"
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{}
+{
+  "surface": {
+    "$type": "color",
+    "interactive": {
+      "resting": {
+        "$value": "{surface.interactive.resting-initial}"
+      },
+      "active": {
+        "$value": "{surface.interactive.active-initial}"
+      }
+    }
+  }
+}
