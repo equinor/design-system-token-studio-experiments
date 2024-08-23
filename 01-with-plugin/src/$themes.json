@@ -6,7 +6,16 @@
     "selectedTokenSets": {
       "color mode/light": "enabled"
     },
-    "group": "🎨 Color Mode"
+    "group": "🎨 Color Mode",
+    "$figmaCollectionId": "VariableCollectionId:3:3",
+    "$figmaModeId": "3:1",
+    "$figmaVariableReferences": {
+      "surface.interactive.resting-initial": "0c186e5ed1fa82740817051d3e8d5028b82eb4c9",
+      "surface.interactive.resting-hover": "08c167e16be463a4a90386bfc391fd79b5af65e4",
+      "surface.interactive.active-initial": "ccb71a845d16786c6b609353ffb12418470482ee",
+      "surface.interactive.active-hover": "0ab7624f6d1d4169c01c34f464cbb4100aa4e216",
+      "surface.interactive.disabled": "4b02de023d90e59318fb53e17aaa87d986642ae6"
+    }
   },
   {
     "id": "4c2142e6a25fa8940be5debb5c0f1eaa53f07032",
@@ -15,7 +24,16 @@
     "selectedTokenSets": {
       "color mode/dark": "enabled"
     },
-    "group": "🎨 Color Mode"
+    "group": "🎨 Color Mode",
+    "$figmaCollectionId": "VariableCollectionId:3:3",
+    "$figmaModeId": "3:2",
+    "$figmaVariableReferences": {
+      "surface.interactive.resting-initial": "0c186e5ed1fa82740817051d3e8d5028b82eb4c9",
+      "surface.interactive.resting-hover": "08c167e16be463a4a90386bfc391fd79b5af65e4",
+      "surface.interactive.active-initial": "ccb71a845d16786c6b609353ffb12418470482ee",
+      "surface.interactive.active-hover": "0ab7624f6d1d4169c01c34f464cbb4100aa4e216",
+      "surface.interactive.disabled": "4b02de023d90e59318fb53e17aaa87d986642ae6"
+    }
   },
   {
     "id": "0594757915e271e60e0b1d776da284882a45b802",
@@ -24,7 +42,13 @@
     "selectedTokenSets": {
       "user state/initial": "enabled"
     },
-    "group": "🚦 User State"
+    "group": "🚦 User State",
+    "$figmaCollectionId": "VariableCollectionId:3:4",
+    "$figmaModeId": "3:3",
+    "$figmaVariableReferences": {
+      "surface.interactive.resting": "27d5093aeceb519969c5c6c730ab5ab2e30e2982",
+      "surface.interactive.active": "8ab50c64207aa0d0c30b365ce6c06b4ae0b5b740"
+    }
   },
   {
     "id": "f05370bb9c7a5299cea1a1f572ba03d0b2e6b429",
@@ -33,7 +57,13 @@
     "selectedTokenSets": {
       "user state/hover": "enabled"
     },
-    "group": "🚦 User State"
+    "group": "🚦 User State",
+    "$figmaCollectionId": "VariableCollectionId:3:4",
+    "$figmaModeId": "3:4",
+    "$figmaVariableReferences": {
+      "surface.interactive.resting": "27d5093aeceb519969c5c6c730ab5ab2e30e2982",
+      "surface.interactive.active": "8ab50c64207aa0d0c30b365ce6c06b4ae0b5b740"
+    }
   },
   {
     "id": "66485dce912514660cefd7292770efbf7b22c7f1",
@@ -42,7 +72,12 @@
     "selectedTokenSets": {
       "system state/resting": "enabled"
     },
-    "group": "🚦 System State"
+    "group": "🚦 System State",
+    "$figmaCollectionId": "VariableCollectionId:3:5",
+    "$figmaModeId": "3:5",
+    "$figmaVariableReferences": {
+      "surface.interactive": "2b11b43b49f5f6cfb732bd139391c3e30031e118"
+    }
   },
   {
     "id": "c8d94559657c474478428ab2221b7b8013179883",
@@ -51,7 +86,12 @@
     "selectedTokenSets": {
       "system state/active": "enabled"
     },
-    "group": "🚦 System State"
+    "group": "🚦 System State",
+    "$figmaCollectionId": "VariableCollectionId:3:5",
+    "$figmaModeId": "3:6",
+    "$figmaVariableReferences": {
+      "surface.interactive": "2b11b43b49f5f6cfb732bd139391c3e30031e118"
+    }
   },
   {
     "id": "697c174eea4dda04d139e0af06a5120641d5650b",
@@ -60,7 +100,12 @@
     "selectedTokenSets": {
       "system state/disabled": "enabled"
     },
-    "group": "🚦 System State"
+    "group": "🚦 System State",
+    "$figmaCollectionId": "VariableCollectionId:3:5",
+    "$figmaModeId": "3:7",
+    "$figmaVariableReferences": {
+      "surface.interactive": "2b11b43b49f5f6cfb732bd139391c3e30031e118"
+    }
   },
   {
     "id": "c7173411624d2ef70f682798e06884ba08938667",
@@ -69,6 +114,11 @@
     "selectedTokenSets": {
       "public/value": "enabled"
     },
-    "group": "🗣️ Public"
+    "group": "🗣️ Public",
+    "$figmaCollectionId": "VariableCollectionId:3:6",
+    "$figmaModeId": "3:8",
+    "$figmaVariableReferences": {
+      "surface": "b524c4aa0bf6689678669e94f0d0f3cb05a0613c"
+    }
   }
 ]
