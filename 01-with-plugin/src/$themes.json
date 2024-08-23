@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "id": "c7244f04887fa227d4ad17116042dfa9629608e7",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "color mode/light": "enabled"
+    },
+    "group": "🎨 Color Mode"
+  },
+  {
+    "id": "4c2142e6a25fa8940be5debb5c0f1eaa53f07032",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "color mode/dark": "enabled"
+    },
+    "group": "🎨 Color Mode"
+  },
+  {
+    "id": "0594757915e271e60e0b1d776da284882a45b802",
+    "name": "Initial",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "user state/initial": "enabled"
+    },
+    "group": "🚦 User State"
+  },
+  {
+    "id": "f05370bb9c7a5299cea1a1f572ba03d0b2e6b429",
+    "name": "Hover",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "user state/hover": "enabled"
+    },
+    "group": "🚦 User State"
+  },
+  {
+    "id": "66485dce912514660cefd7292770efbf7b22c7f1",
+    "name": "Resting",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "system state/resting": "enabled"
+    },
+    "group": "🚦 System State"
+  },
+  {
+    "id": "c8d94559657c474478428ab2221b7b8013179883",
+    "name": "Active",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "system state/active": "enabled"
+    },
+    "group": "🚦 System State"
+  },
+  {
+    "id": "697c174eea4dda04d139e0af06a5120641d5650b",
+    "name": "Disabled",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "system state/disabled": "enabled"
+    },
+    "group": "🚦 System State"
+  },
+  {
+    "id": "c7173411624d2ef70f682798e06884ba08938667",
+    "name": "Value",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "public/value": "enabled"
+    },
+    "group": "🗣️ Public"
+  }
+]
