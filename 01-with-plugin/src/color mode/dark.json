@@ -1,1 +1,22 @@
-{}
+{
+  "surface": {
+    "$type": "color",
+    "interactive": {
+      "resting-initial": {
+        "$value": "#D3DFDE"
+      },
+      "resting-hover": {
+        "$value": "#E3EDEA"
+      },
+      "active-initial": {
+        "$value": "#D6F0DE"
+      },
+      "active-hover": {
+        "$value": "#E6FAEC"
+      },
+      "disabled": {
+        "$value": "#EFEFEF"
+      }
+    }
+  }
+}
