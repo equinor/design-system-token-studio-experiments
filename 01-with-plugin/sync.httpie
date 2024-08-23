@@ -1,0 +1,9 @@
+// Start by adding a Codespaces secret called FIGMA_TOKEN to your Github
+// settings where the value is your personal Figma dev token
+// Run echo $FIGMA_TOKEN in the terminal to verify
+
+// Get variables from main branch in test file
+http GET
+  https://api.figma.com/v1/files/wqjj8snDaGbg22flVg8vgl/variables/local
+  X-Figma-Token:$FIGMA_TOKEN
+  | jq . >> ./01-with-plugin/export/figma-export-$(date -d "today" +"%Y-%m-%d-%H%M-%S").json

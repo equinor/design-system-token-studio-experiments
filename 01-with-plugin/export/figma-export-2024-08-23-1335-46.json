@@ -1,0 +1,24 @@
+{
+  "status": 200,
+  "error": false,
+  "meta": {
+    "variableCollections": {
+      "VariableCollectionId:1:2": {
+        "defaultModeId": "1:0",
+        "id": "VariableCollectionId:1:2",
+        "name": "Collection 1",
+        "remote": false,
+        "modes": [
+          {
+            "modeId": "1:0",
+            "name": "Mode 1"
+          }
+        ],
+        "key": "986bec76020a83dfc3954be2e34ac74527c57f33",
+        "hiddenFromPublishing": false,
+        "variableIds": []
+      }
+    },
+    "variables": {}
+  }
+}
