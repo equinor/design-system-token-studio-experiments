@@ -1,0 +1,11 @@
+{
+  "surface": {
+    "type": "color",
+    "value": "{surface.interactive}",
+    "$extensions": {
+      "studio.tokens": {
+        "urn": "urn:ts:tokens:eu-central-1:bM3csF3WfgcvFc2Hw6L4DY:token/wxFRkzYV3E8GGjdiGhSHbR/47qvzUQyCdurhZKPjpAtbG/7zojD5n4FcxrhuDtdC1i5w"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "tokenSetOrder": [
+    "color mode/light",
+    "color mode/dark",
+    "user state/initial",
+    "user state/hover",
+    "system state/resting",
+    "system state/active",
+    "system state/disabled",
+    "public/value"
+  ]
+}

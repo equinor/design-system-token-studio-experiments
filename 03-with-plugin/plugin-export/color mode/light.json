@@ -1,0 +1,51 @@
+{
+  "surface": {
+    "interactive": {
+      "active-hover": {
+        "type": "color",
+        "value": "#A8C3DB",
+        "$extensions": {
+          "studio.tokens": {
+            "urn": "urn:ts:tokens:eu-central-1:bM3csF3WfgcvFc2Hw6L4DY:token/wxFRkzYV3E8GGjdiGhSHbR/cnXsqoZtSdEevkhcVVRTq3/x6KhLRipxS7LSnQGjNjoKF"
+          }
+        }
+      },
+      "active-initial": {
+        "type": "color",
+        "value": "#7294BB",
+        "$extensions": {
+          "studio.tokens": {
+            "urn": "urn:ts:tokens:eu-central-1:bM3csF3WfgcvFc2Hw6L4DY:token/wxFRkzYV3E8GGjdiGhSHbR/cnXsqoZtSdEevkhcVVRTq3/cVRuYBcvkDMnAY9rbDk7wx"
+          }
+        }
+      },
+      "disabled": {
+        "type": "color",
+        "value": "#DDDDDD",
+        "$extensions": {
+          "studio.tokens": {
+            "urn": "urn:ts:tokens:eu-central-1:bM3csF3WfgcvFc2Hw6L4DY:token/wxFRkzYV3E8GGjdiGhSHbR/cnXsqoZtSdEevkhcVVRTq3/58PdzhgcWJXMXXgd3E6ZBF"
+          }
+        }
+      },
+      "resting-hover": {
+        "type": "color",
+        "value": "#86A7AC",
+        "$extensions": {
+          "studio.tokens": {
+            "urn": "urn:ts:tokens:eu-central-1:bM3csF3WfgcvFc2Hw6L4DY:token/wxFRkzYV3E8GGjdiGhSHbR/cnXsqoZtSdEevkhcVVRTq3/aanMUUM22fhMY25zNoCgCY"
+          }
+        }
+      },
+      "resting-initial": {
+        "type": "color",
+        "value": "#B5C7C9",
+        "$extensions": {
+          "studio.tokens": {
+            "urn": "urn:ts:tokens:eu-central-1:bM3csF3WfgcvFc2Hw6L4DY:token/wxFRkzYV3E8GGjdiGhSHbR/cnXsqoZtSdEevkhcVVRTq3/b1k36j4t5LTDdxgNmB5cqg"
+          }
+        }
+      }
+    }
+  }
+}

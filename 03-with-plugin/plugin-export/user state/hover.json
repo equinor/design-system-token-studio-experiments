@@ -1,0 +1,24 @@
+{
+  "surface": {
+    "interactive": {
+      "active": {
+        "type": "color",
+        "value": "{surface.interactive.active-hover}",
+        "$extensions": {
+          "studio.tokens": {
+            "urn": "urn:ts:tokens:eu-central-1:bM3csF3WfgcvFc2Hw6L4DY:token/wxFRkzYV3E8GGjdiGhSHbR/fSHBskALUbyBgxdxoxUvPo/a6DYs9qiAQ8LAzyULuxaZF"
+          }
+        }
+      },
+      "resting": {
+        "type": "color",
+        "value": "{surface.interactive.resting-hover}",
+        "$extensions": {
+          "studio.tokens": {
+            "urn": "urn:ts:tokens:eu-central-1:bM3csF3WfgcvFc2Hw6L4DY:token/wxFRkzYV3E8GGjdiGhSHbR/fSHBskALUbyBgxdxoxUvPo/3i7AWWuMqq23hMHrugfPem"
+          }
+        }
+      }
+    }
+  }
+}
